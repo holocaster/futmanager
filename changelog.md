@@ -1,5 +1,11 @@
 # Changelog
 
+## Não lançado
+
+### Documentação
+
+- Adicionados README, guia de contribuição, licença MIT e política de segurança nos nomes reconhecidos pelo GitHub.
+
 ## 0.1.1
 
 ### Corrigido
